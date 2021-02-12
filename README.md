@@ -7,7 +7,7 @@
   "nick_name": "Luca",
   "birth_year": 1998,
   "gender": "MALE",
-  “hobby”: [
+  "hobby": [
   ],
   "favorite_foods": [
   ],
