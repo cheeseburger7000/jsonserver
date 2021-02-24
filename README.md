@@ -21,3 +21,9 @@ Free Plan:
 - [docs](https://docs.mockend.com/)
 - file: `.mockend.json`
 - [try](https://mockend.com/cheeseburger7000/Introd/posts)
+
+### Lorem Picsum
+
+- [docs](https://picsum.photos/)
+- Random Image: https://picsum.photos/200/300
+- Specific Image: https://picsum.photos/id/238/200/300
