@@ -1,4 +1,13 @@
 {
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
   "api": {
     "chinese_name": "Shaohsiung Yeung",
     "nick_name": "Luca",
