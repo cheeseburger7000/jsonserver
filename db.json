@@ -40,5 +40,8 @@
         "name": "PUBG"
       }
     ]
-  }
+  },
+  "null": null,
+  "isEdit": false,
+  "func": function add(a, b) {}
 }
